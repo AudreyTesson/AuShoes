@@ -1,0 +1,8 @@
+; Fichier de configuration d'exemple
+; Copier ce fichier et renommer la copie "config.ini" et le remplir
+; Ce fichier contient les informations de connexion à la BDD
+
+DB_HOST=
+DB_USERNAME=
+DB_PASSWORD=
+DB_NAME=

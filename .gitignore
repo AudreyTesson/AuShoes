@@ -1,0 +1,6 @@
+# Si on met 'vendor' on ignore tout fichier ou répertoire s'appelant 'vendor',
+# quel que soit son emplacement dans le projet vendor.
+# Si on met /vendor on ignore uniquement le fichier ou répertoire se trouvant à la racine.
+/vendor
+
+config.ini
